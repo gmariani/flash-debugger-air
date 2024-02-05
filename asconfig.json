@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"output": "bin/FlashDebugger.swf",
+		"source-path": [
+			"src"
+		],
+		"library-path": [
+			"libs"
+		]
+	},
+	"files": [
+		"src/FlashDebugger.mxml"
+	],
+	"application": "src/FlashDebugger-app.xml",
+	"copySourcePathAssets": true,
+	"additionalOptions": "-locale en_US"
+}
